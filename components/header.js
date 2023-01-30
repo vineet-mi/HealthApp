@@ -1,1 +1,1 @@
-const hello = "this is a temp file";
+const hello = "this is a temp";
